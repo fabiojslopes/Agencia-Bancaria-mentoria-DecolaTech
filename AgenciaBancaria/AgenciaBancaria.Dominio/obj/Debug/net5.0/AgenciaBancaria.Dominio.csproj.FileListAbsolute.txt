@@ -1,0 +1,12 @@
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.deps.json
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.dll
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+D:\Projects\Dio\Projetos\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.pdb
